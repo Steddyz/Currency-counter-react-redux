@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Currency-counter-react-redux/static/css/main.c7b3a891.css",
+    "main.js": "/Currency-counter-react-redux/static/js/main.0a735165.js",
+    "index.html": "/Currency-counter-react-redux/index.html",
+    "main.c7b3a891.css.map": "/Currency-counter-react-redux/static/css/main.c7b3a891.css.map",
+    "main.0a735165.js.map": "/Currency-counter-react-redux/static/js/main.0a735165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b3a891.css",
+    "static/js/main.0a735165.js"
+  ]
+}
